@@ -1,0 +1,2 @@
+# coronapp
+static json files
